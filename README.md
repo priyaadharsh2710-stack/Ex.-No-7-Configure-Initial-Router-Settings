@@ -1,5 +1,5 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: 21-11-2026
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,7 +16,8 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="422" height="217" alt="image" src="https://github.com/user-attachments/assets/003bd0e2-724b-40f4-a560-2fd83dee3afc" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +81,20 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="902" height="407" alt="image" src="https://github.com/user-attachments/assets/f6659781-9b3c-4349-bc6e-4fcd7740b5b8" />
+
 •	Running configuration before and after<br>
+<img width="997" height="771" alt="image" src="https://github.com/user-attachments/assets/487b1228-e750-41fe-be31-3368f8ca3718" />
+
 •	MOTD banner display<br>
+<img width="947" height="773" alt="image" src="https://github.com/user-attachments/assets/b7bb17d3-c351-492c-ab45-90996e3b656a" />
+
 •	Password prompts<br>
+<img width="972" height="780" alt="image" src="https://github.com/user-attachments/assets/2dc41497-9b81-47ac-85a3-1b180a42ed55" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4890b7b3-f305-4e79-b859-2256871dbdaa" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
